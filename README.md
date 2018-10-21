@@ -1,9 +1,9 @@
-# aipnd-project
+# aipnd-project #
 ---
 This Image Classifier project was part of my Nanodegree Program with *Udacity*
 This is the first time I've ever created an AI that trains, validates and predicts from scratch.
 ---
-#Authors & Contributors
+# Authors & Contributors #
 ---
 Mariya Shavshyshvili, with the help and instructions of the Udacity Nanodegree Program.
 ---
@@ -14,7 +14,7 @@ https://youtu.be/cdblJqEUDNo
 *LearnCode.academy's* video on GitHub helped me with uploading this project to GitHub:
 https://youtu.be/0fKg7e37bQE
 ---
-#File List
+#File List #
 ---
 cat_to_name.json
 functions_and_classes.py
@@ -23,7 +23,7 @@ predict.py
 README.md
 train.py
 ---
-#Terminal Instructions
+#Terminal Instructions #
 ---
 Based on project instructions from *Udacity*, there are a few specific details about the terminal use that are best to note;
 ---
@@ -51,6 +51,6 @@ with ```./flowers/test/11/image_03098.jpg``` being the path to the image we'd li
 with ```./save_directory/checkpoint.pth``` being the path to the checkpoint we saved in train.py.
 with ```-g``` representing the GPU connection so that everything runs faster.
 ---
-#Please note
+#Please note #
 ---
 As this project was submitted and grated, to avoid direct duplication of the code by future students I won't include the name of the Nanodegree program or the actual name of the project, as stated in the syllabus.
