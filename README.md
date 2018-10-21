@@ -5,11 +5,11 @@ This is the first time I've ever created an AI that trains, validates and predic
 
 Authors & Contributors
 ---
-Mariya Shavshyshvili, with the help and instructions of the Udacity Nanodegree Program.
+Mariya Shavshyshvili (mariyasha888@gmail.com), with the help and instructions of the *Udacity Nanodegree Program*.
 
-**IMPORTANT CREDITS**
+**IMPORTANT CREDITS:**
 
-*Johnny Metz's* video on argparse helped me out a lot with understanding it's uses:
+*Johnny Metz's* video on ```argparse``` helped me out a lot with understanding it's uses:
 
 https://youtu.be/cdblJqEUDNo
 
@@ -20,10 +20,15 @@ https://youtu.be/0fKg7e37bQE
 File List
 ---
 cat_to_name.json
+
 functions_and_classes.py
+
 LICENSE
+
 predict.py
+
 README.md
+
 train.py
 
 Terminal Instructions
