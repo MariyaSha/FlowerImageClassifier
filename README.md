@@ -1,6 +1,6 @@
-aipnd-project
+Flower Image Classifier
 ===
-This Image Classifier project was part of my Nanodegree Program with *Udacity*.
+This Command Line Image Classifier project was part of my Nanodegree Program with *Udacity*.
 This is the first time I've ever created an AI that trains, validates and predicts from scratch.
 
 Authors & Contributors
